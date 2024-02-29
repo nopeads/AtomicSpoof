@@ -34,3 +34,12 @@ Temp spoofer means that you only have to spoof every restart
 - MSI
 - NZXT
 - Predator
+
+## 📄・License
+
+This project is licensed under the GPL General Public License v3.0 License
+```js
+  ・Educational purpose only and all your consequences caused by you actions is your responsibility
+  ・Selling this Free Tool is forbidden
+  ・If you make a copy of this/or fork it, it must be open-source and have credits linking to this repo
+```
