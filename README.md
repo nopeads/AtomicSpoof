@@ -1,4 +1,6 @@
-# Temp-Spoofer-LifeTime
+<h1 align="center">
+  Temp-Spoofer-LifeTime
+</h1>
 
 ## Disclaimer:
 A spoofer is a software that modifies (randomizes) the serial numbers and physical addresses, physically attributed to your hardware. That way, games and other software that reads your hardwares serial numbers won't be able to track you across reboots.
